@@ -1,0 +1,25 @@
+Video Datasets
+
+1 - https://drivingstereo-dataset.github.io/ - related to cars and driving - has depth maps and disparity maps - 2019 
+
+2 - https://lmb.informatik.uni-freiburg.de/resources/datasets/StereoEgomotion/ - simple stereo videos - no depth maps - 2011
+
+3 - https://sites.google.com/view/wsvd/home - videos from youtube which present stereo and has groundtruth - varied and not related to driving - has ground truth - 2019
+
+4 - https://www.eth3d.net/ - datasets for slam as well as stereo - is related to videos where the camera has multiple views of the scene (panning around the scene) - perfect for modelling - has ground truth - procides low-res 2 view, low-res many-view, high-res multi-view - 2019
+
+5 - https://www.mrpt.org/Karlsruhe_Dataset_Rawlog_Format - related to cars and driving - has depth maps and disparity maps - 2019
+
+6 - http://hci-benchmark.iwr.uni-heidelberg.de/ - related to cars and driving - 2020
+
+
+
+Stereo Image Datasets
+
+1 - https://vision.middlebury.edu/stereo/data/ - varied datasets - widely used - 2014
+
+2 - http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo - widely used - mainly deals with streets, cars and driving - 2012 and 2015
+
+3 - https://vision.deis.unibo.it/fede/ds-stereo-lab.html - small dataset with non vehicle/driving related data - 2010
+
+4 - https://heartbeat.fritz.ai/holopix50k-a-large-scale-in-the-wild-stereo-image-dataset-3fb89bb03c09 - https://leiainc.github.io/holopix50k/ - varied stereo image dataset with a  lot of data
